@@ -12,5 +12,6 @@ add(){
 }
 System.out.println(c);  
   
+System.out.println("hi");
   
 }}
